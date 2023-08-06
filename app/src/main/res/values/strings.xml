@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">OdmReg</string>
+    <string name="exportar_a_csv">Exportar a CSV</string>
+    <string name="registro_de_cargas_de_combustible">Registro de Cargas de Combustible</string>
+    <string name="fecha_dd_mm_aaaa">Fecha (DD/MM/AAAA)</string>
+    <string name="hora_hh_mm">Hora (HH:mm)</string>
+    <string name="importe_en_pesos">Importe en pesos</string>
+    <string name="cantidad_de_gnc_m">Cantidad de GNC (m³)</string>
+    <string name="guardar">Guardar</string>
+    <string name="cantidad_de_nafta_litros">Cantidad de Nafta (litros)</string>
+    <string name="od_metro">Odómetro</string>
+</resources>
